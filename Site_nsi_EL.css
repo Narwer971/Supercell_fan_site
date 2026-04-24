@@ -1,0 +1,28 @@
+body {
+    background: url(image/fond.jpg);
+}
+
+.tete {
+    margin: 0;
+    height: 100vh;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 8vw;
+    margin-top: 2%;
+}
+
+.jeux {
+    margin: 0;
+    height: 22vh;
+    display: flex;
+    overflow: scroll;
+    white-space: nowrap;
+    gap: 100px;
+}
+
+.tuff {
+    flex-direction: column;
+}
