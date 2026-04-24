@@ -2,7 +2,6 @@
 <html>
   <head>
       <meta charset="UTF-8">
-      <title>Loader/title>
       <link rel="stylesheet" href="Site_nsi_EL.css">
   </head>
   <body>
