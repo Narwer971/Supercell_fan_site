@@ -16,7 +16,7 @@ h1 {
 
 .jeux {
     margin: 0;
-    height: 70vh;
+    height: 25vw;
     display: flex;
     x-overflow: scroll;
     white-space: nowrap;
