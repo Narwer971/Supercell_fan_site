@@ -18,6 +18,7 @@ h1 {
     margin: 0;
     height: 25vh;
     display: flex;
+    y-overflow: cover;
     x-overflow: scroll;
     white-space: nowrap;
     gap: 100px;
