@@ -27,3 +27,9 @@ h1 {
 .tuff {
     flex-direction: column;
 }
+
+.Ts {
+    display: center;
+    height: 25vh;
+    width: 75vw;
+}
