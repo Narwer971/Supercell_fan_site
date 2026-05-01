@@ -101,13 +101,16 @@ p{
 }
 
 S {
-   background-image: url(fond.jpg);
+   background-image: url(image/fond.jpg);
 }
 
  Je{
-   background-image: url(jeux.jpg);
+   background-image: url(image/jeux.jpg);
 }
 
 es {
-   background-image: url(esport.jpg);
+   background-image: url(image/esport.jpg);
 }
+
+
+
