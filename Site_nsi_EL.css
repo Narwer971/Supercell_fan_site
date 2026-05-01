@@ -2,11 +2,13 @@ body {
     background: url(image/fond.jpg);
 }
 
-tete {
+.tete {
     margin: 0;
-    height: 100vh;
+    height: 30vh;
     text-align: center;
     color: white;
+    font-size: 8vw;
+    margin-top: 2%;
 }
 
 .tete {
@@ -16,14 +18,52 @@ tete {
 
 .jeux {
     margin: 0;
-    height: 15vh;
+    height: 22vh;
     display: flex;
-    overflow-y: hidden;
     overflow-x: scroll;
+    overflow-y: hidden;
     white-space: nowrap;
     gap: 100px;
 }
 
+.tuff {
+    flex-direction: column;
+}
+
+.Ts {
+  padding= 10px;
+  display= flex;
+  height= 10vh;
+}
+
+.colonnes{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+
+.colonne{
+    display: block;
+    background-color: #1c1c2e;
+    padding: 20px;
+    width: 250px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.colonne:hover{
+    transform: scale(1.05);
+    background-color: #2a2a45;
+}
+
+p{
+    font-size: 18px;
+    text-
+}
 .tuff {
     flex-direction: column;
 }
