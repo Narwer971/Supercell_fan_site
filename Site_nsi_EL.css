@@ -2,7 +2,7 @@ body {
     background: url(image/fond.jpg);
 }
 
-.tete {
+tete {
     margin: 0;
     height: 100vh;
     text-align: center;
@@ -14,7 +14,7 @@ h1 {
     margin-top: 2%;
 }
 
-.jeux {
+jeux {
     margin: 0;
     height: 15vh;
     display: flex;
@@ -24,35 +24,35 @@ h1 {
     gap: 100px;
 }
 
-.tuff {
+tuff {
     flex-direction: column;
 }
 
-.Ts {
+Ts {
     display: center;
     height: 40vw;
     width: 75vh;
 }
 
-.theme {
+theme {
   margin: 0;
   display: flex;
   text-align: center;
 }
 
-.jeu {
+jeu {
   background: blue;
   width: 50vw;
   height: 25vh;
 }
 
-.teamS {
+teamS {
   background: green;
   width: 50vw;
   height: 25vh;
 }
 
-.esport {
+esport {
   background: yellow;
   width: 50vw;
   height: 25vh;
