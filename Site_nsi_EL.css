@@ -36,7 +36,7 @@ h1 {
 
 .theme {
   margin: 0;
-  display: collum;
+  display: flex;
   text-align: center;
 }
 
