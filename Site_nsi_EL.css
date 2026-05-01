@@ -89,7 +89,6 @@ p{
 
 p{
     font-size: 18px;
-    text-
 }
 .tuff {
     flex-direction: column;
@@ -101,26 +100,3 @@ p{
     width: 75vh;
 }
 
-.theme {
-  margin: 0;
-  display: flex;
-  text-align: center;
-}
-
-.jeu {
-  background: blue;
-  width: 50vw;
-  height: 25vh;
-}
-
-.teamS {
-  background: green;
-  width: 50vw;
-  height: 25vh;
-}
-
-.esport {
-  background: yellow;
-  width: 50vw;
-  height: 25vh;
-}
