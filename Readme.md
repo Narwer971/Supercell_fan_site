@@ -9,7 +9,7 @@
     <div class=tete>
       <h1 class="h1">SUPERCELL</h1>
     <p class="jeux" href="jeux.html">Jeux</p>
-    <p class="teamS" href="teamS.html">Team Suoercell</p>
+    <p class="teamS" href="teamS.html">Team Supercell</p>
     <p class="esport" href="esport.html">esport</p>
   </body>
 </html
