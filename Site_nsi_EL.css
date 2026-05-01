@@ -33,3 +33,27 @@ h1 {
     height: 40vw;
     width: 75vh;
 }
+
+.theme {
+  margin: 0;
+  display: collum;
+  text-align: center;
+}
+
+.jeux {
+  background: blue;
+  width: 50vw;
+  height: 25vh;
+}
+
+.teamS {
+  background: green;
+  width: 50vw;
+  height: 25vh;
+}
+
+.esport {
+  background: yellow;
+  width: 50vw;
+  height: 25vh;
+}
