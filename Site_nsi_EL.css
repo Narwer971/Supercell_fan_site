@@ -72,10 +72,11 @@ p{
 }
 
 .colonne{
+    height: 20vh;
     display: block;
     background-color: #1c1c2e;
     padding: 20px;
-    width: 250px;
+    width: 80vw;
     border-radius: 15px;
     text-decoration: none;
     color: white;
