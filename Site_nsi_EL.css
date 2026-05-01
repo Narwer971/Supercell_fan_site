@@ -100,15 +100,15 @@ p{
     width: 75vh;
 }
 
-S {
+.S {
    background-image: url(image/fond.jpg);
 }
 
- Je{
+.Je{
    background-image: url(image/jeux.jpg);
 }
 
-es {
+.es {
    background-image: url(image/esport.jpg);
 }
 
