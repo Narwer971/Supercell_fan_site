@@ -1,17 +1,145 @@
-<!DOCTYPE html>
+<!DOCTYPE Html>
 <html>
   <head>
-    <meta charset="UTF-8">
-    <title>SUPERCELL</title>
-    <link rel="stylesheet" href="Site_nsi_EL.css">
+      <meta charset="UTF-8">
+      <title>Supercell</title>
+      <link rel="stylesheet" href="Site_nsi_EL.css">
   </head>
   <body>
     <div class=tete>
-      <h1 class="tete">SUPERCELL</h1>
-    <ul class="theme">
-      <li class="jeux" href="jeux.html">Jeux</li>
-      <li class="teamS" href="teamS.html">Team Supercell</li>
-      <li class="esport" href="esport.html">esport</li>
-    </ul>
+      <h1 class="h1">SUPERCELL</h1>
+      <p>équipe SUPERCELL</p>
+    <p class=texte>SSupercell est une
+        entreprise de jeux vidéo connue dans le monde entier.
+        Elle a été fondée en 2010 en Finlande.
+        Son siège se situe à Helsinki.
+        L’entreprise s’est rapidement fait remarquer grâce à ses jeux mobiles.
+        Supercell adopte une philosophie simple mais efficace.
+        Elle préfère créer peu de jeux, mais de très grande qualité.
+        Chaque jeu est développé par une petite équipe indépendante.
+        Cela permet plus de créativité et de liberté.
+        Le premier grand succès de Supercell est Hay Day.
+        Ensuite, Clash of Clans a connu un succès énorme.
+        Ce jeu de stratégie a attiré des millions de joueurs.
+        Clash Royale est un autre jeu très populaire.
+        Il mélange stratégie et cartes en temps réel.
+        Brawl Stars est aussi très apprécié des joueurs.
+        Ce jeu propose des combats rapides et dynamiques.
+        Supercell met l’accent sur l’expérience utilisateur.
+        Les jeux sont simples à comprendre mais difficiles à maîtriser.
+        Cela rend les joueurs accrocs sur le long terme.
+        L’entreprise utilise un modèle économique gratuit.
+        Les joueurs peuvent jouer sans payer.
+        Cependant, des achats sont proposés dans le jeu.
+        Supercell gagne beaucoup d’argent grâce à cela.
+        Les mises à jour sont régulières et importantes.
+        Elles ajoutent du contenu et corrigent les bugs.
+        La communauté des joueurs est très active.
+        Les développeurs écoutent souvent les retours.
+        Supercell n’hésite pas à annuler un projet.
+        Même après plusieurs mois de développement.
+        Cela montre leur exigence de qualité.
+        Leur slogan pourrait être « qualité avant quantité ».
+        L’entreprise a été rachetée en partie par Tencent.
+        Tencent est une grande entreprise chinoise.
+        Malgré cela, Supercell reste assez indépendante.
+        Son organisation interne est unique.
+        Les équipes sont appelées des “cellules”.
+        Chaque cellule gère son propre projet.
+        Cela favorise l’innovation et la rapidité.
+        Supercell a influencé toute l’industrie mobile.
+        Beaucoup d’entreprises s’inspirent de son modèle.
+        Ses jeux sont disponibles sur Android et iOS.
+        Ils sont joués dans le monde entier.
+        Certains jeux ont même des compétitions e-sport.
+        Clash Royale, par exemple, a eu des tournois internationaux.
+        Supercell continue de créer de nouveaux jeux.
+        Mais elle prend toujours son temps.
+        L’objectif reste de divertir les joueurs.
+        Et de proposer une expérience unique.
+        Supercell est aujourd’hui un leader du jeu mobile.
+        Son succès repose sur l’innovation et la qualité.
+        Elle reste une référence dans son domaine.</p>
+    <ol class="jeux">
+                <li class="tuff">
+                        <a href="Jeux/Bs.html">
+                                <img src="image/Bs.jpg">
+                                <p>Brawl star</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/Coc.html">
+                                <img src="image/Coc.jpg">
+                                <p>Clash of clans</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/Cr.html">
+                                <img src="image/Cr.jpg">
+                                <p>Clash royale</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/Mc.html">
+                                <img src="image/Mc.jpg">
+                                <p>mo.co</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/Sb.html">
+                                <img src="image/Sb.jpg">
+                                <p>squad buster</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/Hd.html">
+                                <img src="image/Hd.jpg">
+                                <p>hay day</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/Bb.html">
+                                <img src="image/Bb.jpg">
+                                <p>boom beach</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/Cm.html">
+                                <img src="image/Cn.jpg">
+                                <p>clash mini</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/Cq.html">
+                                <img src="image/Cq.jpg">
+                                <p>clash quest</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/Rw.html">
+                                <img src="image/Rw.jpg">
+                                <p>rush war</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/E.html">
+                                <img src="image/E.jpg">
+                                <p>Everdale</p>
+                        </a>
+        </li>
+        <li class="tuff">
+                        <a href="Jeux/Hdp.html">
+                                <img src="image/Hdp.jpg">
+                                <p>hay day pop</p>
+                        </a>
+        </li>
+    </ol>
+      <a class="Ts">
+        <img src="image/Ts.jpg">
+      </a>
+    <script src="Site_nsi_EL.js" defer></script>
   </body>
+  <footer class="fin">
+  Site créé par Erwan Lebon et Pierre Jhigai 1éreG5
+  </footer>
 </html>
