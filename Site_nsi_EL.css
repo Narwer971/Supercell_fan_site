@@ -4,7 +4,7 @@ body {
 
 .tete {
     margin: 0;
-    height: 30vh;
+    height: 15vh;
     text-align: center;
     color: white;
     font-size: 8vw;
@@ -265,6 +265,10 @@ button{
 .u15{
   background: url(image/Supercell/Intenal_fond.jpg);
 }
+
+fin {
+  font-size: 2px;
+;
 
 
 
