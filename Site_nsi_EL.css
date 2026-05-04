@@ -261,6 +261,26 @@ button{
 
 }
 
+
+.team-btn {
+  padding: 12px 18px;
+  border: none;
+  border-radius: 14px;
+  background :#6a5298;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.team-btn:hover {
+  transform: scale(1.08);
+  background: #dd2476;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.35);
+}
+
 .u1{
   background: url(image/Supercell/Tribe.jpeg);
 }
