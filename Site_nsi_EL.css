@@ -85,7 +85,9 @@ p{
 }
 
 .Ts {
-    display: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 40vw;
     width: 75vh;
 }
