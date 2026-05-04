@@ -65,6 +65,7 @@
     text-decoration: none;
     color: white;
     transition: 0.3s;
+    text-align: center;
 }
 
 .colonne:hover{
