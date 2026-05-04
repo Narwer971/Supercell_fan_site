@@ -112,5 +112,160 @@ p{
    background-image: url(image/esport.jpg);
 }
 
+.house {
+   position: fixed;
+   top: 10px;
+   left: 10px;
+   font-size: 40px;
+   color: white;
+   background: black;
+   padding: 10px;
+   border-radius: 10px;
+}
+
+.niu {
+  color: black;
+}
+
+button{
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+/* POPUP */
+.modal{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  width: 400px;
+  color: white;
+  background: white;
+  border: 1px solid black;
+  border-radius: 10px;
+
+  z-index: 10;
+  transition: 0.2s;
+}
+
+.modal.active{
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.modal-header{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid black;
+}
+
+.modal-body{
+  padding: 10px;
+}
+
+/* OVERLAY */
+#overlay{
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+
+  opacity: 0;
+  pointer-events: none;
+  transition: 0.2s;
+}
+
+#overlay.active{
+  opacity: 1;
+  pointer-events: all;
+}
+
+.team-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  padding: 20px;
+}
+
+.team-btn {
+  padding: 12px 18px;
+  border: none;
+  border-radius: 14px;
+  background :#6a5298;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.team-btn:hover {
+  transform: scale(1.08);
+  background: #dd2476;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.35);
+}
+
+.u1{
+  background: url(image/Supercell/Tribe.jpeg);
+}
+
+.u2{
+  background: url(image/Supercell/Truc.jpg);
+}
+
+.u4{
+  background: url(image/Supercell/Ouch.jpg);
+}
+
+.u5{
+  background: url(image/Supercell/Zeta.jpeg);
+  color:white;
+}
+
+.u6{
+  background: url(image/Supercell/Reloite.jpeg);
+}
+
+.u7{
+  background: url(image/Supercell/Frezzom.jpg);
+}
+
+.u8{
+  background: url(image/Supercell/Navi_fond.jpg);
+  color: white;
+}
+
+.u9{
+  background: url(image/Supercell/Bruh.jpg);
+}
+
+.u10{
+  background: url(image/Supercell/Qlash_fond.jpg);
+}
+
+.u11{
+  background: url(image/Supercell/Totem.jpg);
+}
+
+.u12{
+  background: url(image/Supercell/MCES_fond.jpg );
+  color: white;
+}
+
+.u13{
+  background: url(image/Supercell/Valtang.jpg);
+}
+
+.u14{
+  background: url(image/Supercell/Qw_fond.jpg);
+}
+
+.u15{
+  background: url(image/Supercell/Intenal_fond.jpg);
+}
+
+
 
 
