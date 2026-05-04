@@ -1,6 +1,18 @@
-body {
+.body1 {
     background: url(image/fond.jpg);
 }
+
+.body2 {
+  background: url(image/fond2.jpg);
+}
+
+.body3 {
+  background: url(image/fond3.jpg);
+}
+
+.body4 {
+  background: url(image/fond4.jpg);
+  font-family: Arial;
 
 .tete {
     margin: 0;
